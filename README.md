@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏠 California Housing Prices — Random Forest Regressor
 
 A machine learning project that predicts median house values (in $100,000s) using the California Housing dataset from Scikit-learn.
@@ -60,3 +61,7 @@ Source: [California Housing Dataset — Scikit-learn](https://scikit-learn.org/s
 ## Tech Stack
 
 `Python` · `Scikit-learn` · `Pandas` · `Matplotlib` · `Jupyter Notebook`
+=======
+# California-housing-price-prediction
+tema1 TIA
+>>>>>>> cccc1c5045bbd4bffb5f382cb01b6b3330975365
